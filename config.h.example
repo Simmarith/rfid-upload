@@ -1,0 +1,6 @@
+#define WIFI_SSID "EXAMPLE_SSID"
+#define WIFI_PASS "EXAMPLE_PASS"
+
+#define MQTT_USER "EXAMPLE_USER"
+#define MQTT_PASS "EXAMPLE_PASS"
+#define MQTT_TOPIC "/reader/cards"
