@@ -1,4 +1,4 @@
-# rfid-uplaod
+# rfid-upload
 This program reads from an MFRC522 chip and publishes the tag ID to the specified MQTT channel.
 
 ## Hardware
